@@ -9,7 +9,7 @@
 ## it is easy to produce the correct functions just by replacing 'vector' with
 ## 'matrix' and 'mean' with 'solve,' in the example code.
 
-## I think the assignment is really to figure out how the code works and then comment 
+## I think the assignment is really to figure out how the code works and then to comment 
 ## these explanations into the submitted functions.
 
 ## ***********************************
